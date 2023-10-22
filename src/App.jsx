@@ -7,7 +7,7 @@ import {
 import Contact from "./assets/Pages/Contact"
 import Home from "./assets/Pages/Home"
 import Shop from "./assets/Pages/Shop"
-// import Navber from "./assets/cmp/Navber/navber"
+import Navber from "./assets/cmp/Navber/Navber"
 import NotFound from "./assets/Pages/NotFound";
 import ProductPage from "./assets/cmp/ProductPage/ProductPage";
 
